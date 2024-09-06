@@ -1,6 +1,6 @@
 package com.corenetworks.presentacion;
 
-public class Main {
+public class MainXX {
     public static void main(String[] args) {
 
         System.out.println("Hello world!");
